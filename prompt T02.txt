@@ -1,0 +1,8 @@
+ada sebuah data stok barang yang disimpan dalm sebuah rak gudang, jadi pola nya seperti ini: Input:
+1. Jumlah total data (N). 
+2. Deret stok (s1, s2, ..., sN). 
+3. Kode kategori barang.
+<p align="center"> <img src="image/rak.png" width="300"> </p>
+jadi pola nya ini untuk memahami gimana kelompok barangnya itu terpisah
+jadi tugas anda sekarang adalah buat program yang mampu menentukan total stok, tetapi hanya untuk kategori barang yang diminta
+berikut adalah gambar pendukung dari soal tersebut

@@ -1,0 +1,23 @@
+ada dua mahasiswa yang bernama ucok dan butet, jadi mereka sedang duduk di depan asrama memandangi beberapa dus besar yang terletak di samping mereka.
+berikut adalah daftar ongkos kirim per kilogram
+**Input**
+bash
+MDN
+5
+JKT
+3
+BLG
+4
+END
+**Output** Struk Pembayaran yang terdiri dari: Kota tujuan, Berat paket Butet, Berat paket Ucok, Total berat, Total ongkos kirim, Informasi promo yang diperoleh,
+
+
+
+
+
+
+
+
+
+
+

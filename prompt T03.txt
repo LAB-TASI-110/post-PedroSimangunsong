@@ -1,0 +1,30 @@
+Buatlah sebuah program berbasis Java untuk mendukung operasional sederhana kafetaria IT Del. Sistem ini digunakan untuk mencatat dan menghitung transaksi pembelian makanan dan minuman oleh pelanggan.
+Kafetaria menyediakan beberapa menu, yaitu:
+
+Minuman: kopi, teh
+Makanan: bakwan, tempe, tahu
+Setiap menu memiliki harga tetap yang ditentukan di dalam sistem.
+Setiap menu memiliki harga tetap yang ditentukan di dalam sistem.
+
+Program harus mampu:
+
+Menerima input berupa nama menu dan jumlah pesanan secara berulang.
+Menghentikan input ketika pengguna memasukkan kata kunci "END".
+Menghitung total harga untuk setiap item berdasarkan jumlah yang dipesan.
+Menghitung total keseluruhan pembayaran.
+Menampilkan struk pembelian yang berisi:
+Daftar menu yang dipesan
+Jumlah masing-masing item
+Total harga per item
+Total pembayaran akhir
+
+Contoh input:
+kopi
+2
+bakwan
+3
+teh
+1
+END
+
+Total Bayar: 20000
